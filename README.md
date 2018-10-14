@@ -1,2 +1,6 @@
 # COSC2030_Lab4
-VectorDriver Lab
+Finley McIlwaine
+Oct. 14, 2018
+COSC2030 Lab 4
+
+Vector Driver!
