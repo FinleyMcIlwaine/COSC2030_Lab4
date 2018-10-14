@@ -3,7 +3,7 @@
  * Date: October 14, 2018
  *
  * Desc: Exemplifies the use of the STL with vectors,
- * iterators, and algorithms.
+ *       iterators, and algorithms.
  */
 
 #include "pch.h"
